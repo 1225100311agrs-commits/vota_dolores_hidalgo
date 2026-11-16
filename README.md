@@ -6,10 +6,10 @@ App de plebiscito hecha en Flutter siguiendo TDD.
 ![Tests en verde](capturas/tests.png)
 
 ## Pantalla de votación
-![Votación](capturas/votacion.png)
+![Votación](capturas/votaciones.png)
 
 ## Resultados
 ![Resultados](capturas/resultados.png)
 
 ## Ganador
-![Ganador](capturas/ganador.png)"# vota_dolores_hidalgo" 
+![Ganador](capturas/ganador.png)
